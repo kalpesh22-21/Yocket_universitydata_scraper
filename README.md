@@ -4,3 +4,5 @@ Scraped University Courses, Deadline and Admit Reject Data for each course using
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** Selenium, Pandas. 
+
+## Feel Free to use the Code for scraping (Make Sure Selenium is installed and Browser Driver in place)
